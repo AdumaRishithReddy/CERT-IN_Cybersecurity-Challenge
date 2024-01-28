@@ -1,11 +1,10 @@
 # CERT-IN_Cybersecurity-Challenge
-Inter-IIT 12.0 CERT-IN Cybersecurity Challenge
-Led a team and placed 10th among 23 IITs placing over many established older and experienced IITs in our debut
+Led a team to secure the 10th position among 23 IITs in our debut at the Inter-IIT 12.0 CERT-IN Cybersecurity Challenge, surpassing many established and experienced IITs.
 
-Using Proactive and Reactive approaches to decrease the likelihood and subsequent cost of potential attacks
+Implemented both proactive and reactive cybersecurity approaches to minimize the likelihood and subsequent costs of potential attacks.
 
-Designed a Audit App with improved communication and automation to make tasks quicker and effective.
+Developed an Audit App with enhanced communication and automation capabilities, resulting in quicker and more effective task execution.
 
-Researched and recommended proactive development strategies that prevent attacks.
+Conducted research and proposed proactive development strategies aimed at preventing cyber attacks.
 
-Improved detection procedures by including the information recieved by the SIEM,EDR,NDR to develop a Explainable AI using SHAP. 
+Enhanced detection procedures by leveraging information from SIEM, EDR, and NDR systems, leading to the creation of an Explainable AI using SHAP (SHapley Additive exPlanations).
